@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PYTHON, SQL, FRONTEND WEB DEV**
 
-- 📝 JOIN ME [https://linktr.ee/data._.pirates](https://linktr.ee/codewithshek)
+- 📝 JOIN ME [https://linktr.ee/codewithshek](https://linktr.ee/codewithshek)
 
 - 📫 How to reach me **d.abhishekyadav2004@gmail.com**
 
