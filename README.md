@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithshek?tab=repositories](https://github.com/codewithshek?tab=repositories)
 
-- 💬 Ask me about **PYTHON, SQL, FRONTEND WEB DEV**
+- 💬 Ask me about **FULL STACK DEV & UI/UX DESIGN **
 
 - 📝 JOIN ME [https://linktr.ee/codewithshek](https://linktr.ee/codewithshek)
 
