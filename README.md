@@ -1,6 +1,6 @@
 ![logo](https://github.com/codewithshek/codewithshek/blob/main/follow%20us.png.png)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate frontend developer and Python developer from India</h3>
+<h3 align="center">A passionate UI/UX Designer, Full Stack Developer also Data Analyst from India</h3>
 
 
 
