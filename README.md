@@ -1,12 +1,12 @@
 ![logo](https://github.com/codewithshek/codewithshek/blob/main/follow%20us.png.png)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate UI/UX Designer, Full Stack Developer also Data Analyst from India</h3>
+<h3 align="center">A passionate Full Stack Developer also Data Analyst from India</h3>
 
 
 
 
 # 💫 About Me:
-🔨 I’m currently working on: Developing responsive web applications and enhancing user experiences.<br>🤝 I’m looking to collaborate on: UI/UX design projects and full-stack development initiatives.<br>🛠️ I’m looking for help with: Advanced CSS techniques and optimizing front-end performance.<br>🌱 I’m currently learning: Generative AI and its applications in web design.<br>💬 Ask me about: Full-stack development, UI/UX design, and Power BI.<br>⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+🔨 I’m currently working on: Developing responsive web applications and enhancing user experiences.<br>🤝 I’m looking to collaborate on: full-stack development initiatives.<br>🛠️ I’m looking for help with: Advanced CSS techniques and optimizing front-end performance.<br>🌱 I’m currently learning: Generative AI and its applications in web design.<br>💬 Ask me about: Full-stack development<br>⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 
 ## 🌐 Socials:
