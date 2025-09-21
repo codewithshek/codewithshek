@@ -18,7 +18,7 @@
     <td width="40%" align="center">
      <img src="https://github.com/user-attachments/assets/ea53256d-6cc4-43b0-bb02-fb7c8482c1b3" 
      alt="shadow effect" 
-     style="width:300px; height:300px; object-fit:cover; border-radius:10px;" />
+     style="height:300px; border-radius:10px; overflow:hidden;" />
     </td>
   </tr>
 </table>
