@@ -85,7 +85,7 @@
       <p>A steganography project developed during my internship at IBM. It securely embeds and extracts hidden data within image files using Python.</p>
       <p>
         <a href="https://github.com/codewithshek/IBM-Intern-Secure-Data-Hiding-in-Image" target="_blank"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
-        <a href="[YOUR_LIVE_DEMO_LINK_HERE](https://ibm-intern-encrypt-and-decrypt-images.netlify.app/)" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+        <a href="https://ibm-intern-encrypt-and-decrypt-images.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
       </p>
     </td>
   </tr>
