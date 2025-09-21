@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/gjrYDwbjnK8x3kNFaZ/giphy.gif" alt="Coding GIF" width="100%"/>
+      <img height="1248" alt="shandow effect" src="https://github.com/user-attachments/assets/ea53256d-6cc4-43b0-bb02-fb7c8482c1b3" />
     </td>
   </tr>
 </table>
