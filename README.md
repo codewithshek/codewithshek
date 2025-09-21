@@ -74,18 +74,18 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Project One: Interactive AI Dashboard</h3>
-      <p>A responsive web application using Next.js for data visualization, powered by a Python backend that leverages generative AI for insights.</p>
+      <h3>AI-powered Resume Screening System</h3>
+      <p>An intelligent system that automates resume screening and ranks candidates based on job descriptions, streamlining the hiring process with AI.</p>
       <p>
-        <a href="YOUR_REPO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
+        <a href="https://github.com/codewithshek/AI-powered-Resume-Screening-and-Ranking-System" target="_blank"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
         <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Project Two: Real-Time Collab Tool</h3>
-      <p>A collaborative whiteboard application built with React and Node.js, featuring real-time updates using WebSockets and a MongoDB backend.</p>
+      <h3>IBM Intern: Secure Data Hiding</h3>
+      <p>A steganography project developed during my internship at IBM. It securely embeds and extracts hidden data within image files using Python.</p>
       <p>
-        <a href="YOUR_REPO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
+        <a href="https://github.com/codewithshek/IBM-Intern-Secure-Data-Hiding-in-Image" target="_blank"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
         <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
       </p>
     </td>
