@@ -7,9 +7,6 @@
         I build robust, scalable, and intuitive web applications from the ground up. Based in India, I'm passionate about leveraging modern technologies to solve complex problems and create exceptional user experiences. Currently, I'm diving deep into the world of Generative AI and its applications in web development.
       </p>
       <p>
-        <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-777?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-        </a>
         <a href="https://linkedin.com/in/dabhishekyadav" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
